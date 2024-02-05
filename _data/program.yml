@@ -1,0 +1,66 @@
+legend:
+  title: Legend
+  categories:
+    - name: contributed
+      color: blue-6
+    - name: invited
+      color: red-6
+    - name: posters
+      color: teal-6
+
+days:
+  - name: Day 1
+    events:
+      - time: 11:45 to 12:50
+        title: Registration and lunch
+      - time: 12:50 to 13:00
+        title: Welcome from the organisers
+      - time: 13:00 to 13:30
+        title: Invited talk 1
+#        subtitle: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+        category: invited
+      - time: 13:30 to 14:00
+        title: Invited talk 2
+        category: invited
+      - time: 14:00 to 14:20
+        title: Contributed talk 1
+#        subtitle: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+        category: contributed
+      - time: 14:30 to 15:00
+        title: Coffee
+      - time: 15:00 to 15:30
+        title: Invited talk 3
+        category: invited
+      - time: 15:30 to 16:00
+        title: Contributed talk 2
+        category: contributed
+      - time: 16:00 to 16:30
+        title: Invited talk 4
+        category: invited
+      - time: 16:30 to 18:30
+        title: Posters A & reception
+        category: posters
+
+  - name: Day 2
+    events:
+      - time: 8:00 to 9:00
+        title: Coffee
+      - time: 9:00 to 11:00
+        title: Tempor incididunt
+        subtitle: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+        category: A category
+      - time: 11:00 to 13:00
+        title: Ut labore et dolore
+        subtitle: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+        category: Another category
+      - time: 13:00 to 14:00
+        title: Lunch break
+      - time: 14:00 to 16:00
+        title: Magna aliqua
+        subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+        category: Yet another category
+      - time: 16:00 to 18:00
+        title: Poster presentations
+        category: Yet another category
+      - time: 18:00 to 19:00
+        title: Closing

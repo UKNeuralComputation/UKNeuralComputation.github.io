@@ -1,0 +1,21 @@
+center: 53.3815523,-1.4820845
+zoom: 19
+
+markers:
+  - title: The Diamond, University of Sheffield
+    text: Main conference building
+    latlng: 53.38168705578664, -1.4821269759214757
+#  - title: ICOSS, University of Sheffield
+#    latlng: 53.38106469485642, -1.4817407378124599
+
+#areas:
+#  - text:
+#      - This is a tooltip with no title...
+#      - ...and with multiple lines of text
+#    latlng:
+#      - 47.81025552661079, 19.02201563177881
+#      - 47.80993848992647, 19.024740756084967
+#      - 47.812863800415236, 19.026607573523037
+#      - 47.811667757419514, 19.038366377615738
+#      - 47.804750341957295, 19.035233557547244
+#      - 47.80770476752536, 19.021672309031583
