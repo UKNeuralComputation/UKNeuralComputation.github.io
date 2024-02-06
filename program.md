@@ -1,8 +1,18 @@
 ---
 layout: program
-title: Program
+title: Programme
 description: Schedule of talks and activities
-navorder: 1
+#navorder: 1
 ---
 
-Interdum velit euismod in pellentesque massa. A lacus vestibulum sed arcu non odio euismod lacinia. Nisi porta lorem mollis aliquam ut porttitor leo a. Ornare aenean euismod elementum nisi. Nisl nisi scelerisque eu ultrices. Aliquet bibendum enim facilisis gravida neque convallis a.
+Full programme to be confirmed.
+
+# ECR workshop
+Monday, 22 June 2020: 
+
+# Main conference
+1 Keynote, 10 invited talks, 4 contributed talks, and around 60 posters spread over 2 days.
+Tuesday, 23 June 2020
+Schedule tbc.
+Wednesday, 24 June 2020
+Schedule tbc.
