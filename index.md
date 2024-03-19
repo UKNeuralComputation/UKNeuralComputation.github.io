@@ -27,6 +27,10 @@ UKNC24 is taking place **8-10 July 2024** at the **University of Sheffield**: a 
 - **Eleni Vasilaki** (University of Sheffield)
 - **Mark van Rossum** (University of Nottingham)
 
+## Organisers
+
+Hannes Saal (University of Sheffield), Stuart Wilson (University of Sheffield), Mark Humphries (University of Nottingham)
+
 ## Prior meetings
 
 - [**UK Neural Computation 2019**](https://drmdhumphries.wixsite.com/ukneuralcomp2019) took place at the University of Nottingham on 1-3 July 2019.
