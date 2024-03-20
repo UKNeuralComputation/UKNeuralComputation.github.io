@@ -20,6 +20,7 @@ UKNC24 is taking place **8-10 July 2024** at the **University of Sheffield**: a 
 - **Randy Bruno** (University of Oxford): Keynote
 - **Andrew Adamatzky** (UWE Bristol)
 - **Dan Goodman** (Imperial College London)
+- **Tim O'Leary** (University of Cambridge)
 - **Rasmus Petersen** (University of Manchester)
 - **Rui Ponte Costa** (University of Oxford)
 - **Yulia Timofeeva** (University of Warwick)
