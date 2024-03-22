@@ -5,15 +5,15 @@ description: Abstract submission
 navorder: 3
 ---
 
-Abstract submission will open in March 2024.
+# [-> Submit your abstract here <-](https://forms.gle/zoXDsDKXeLoCqKgE9)
 
 ## Format
-Submissions are via EasyChair (account required). Each submission will need:
+Each submission will need the following information to be entered into a Google Form:
 - Title
-- Author list with affiliations;
-- The presenting author’s email address;
-- Summary of work (maximum 300 words; text only).
-- Consider for talk? (Y/N)
+- Author list
+- Some information on the presenting author
+- Summary of work (maximum 2,000 characters; text only).
+- Whether the submission should be considered for a talk? (Y/N)
 
 ## Selection process
 All abstracts will be considered by the programme committee. Reviewers will be blinded to author names.
