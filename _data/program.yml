@@ -5,7 +5,7 @@ legend:
       color: blue-6
     - name: talks
       color: red-6
-    - name: posters
+    - name: "posters"
       color: blue-6
 
 days:
@@ -25,7 +25,7 @@ days:
         category: talks
       - time: 16:30 to 18:30
         title: Posters session 1
-        category: posters
+        category: "posters"
 
   - name: Day 2
     events:
