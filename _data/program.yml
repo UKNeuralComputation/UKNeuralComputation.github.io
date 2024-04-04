@@ -9,7 +9,7 @@
 #      color: blue-6
 
 days:
-  - name: Day 1
+  - name: Day 1, 9 July
     events:
       - time: 11:45 to 12:50
         title: Registration and lunch
@@ -27,7 +27,7 @@ days:
         title: Posters session 1
         category: blue-6
 
-  - name: Day 2
+  - name: Day 2, 10 July
     events:
       - time: 9:00 to 9:30
         title: Coffee
