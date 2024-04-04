@@ -1,12 +1,12 @@
-legend:
-  title: Legend
-  categories:
-    - name: contributed
-      color: blue-6
-    - name: talks
-      color: red-6
-    - name: "posters"
-      color: blue-6
+#legend:
+#  title: Legend
+#  categories:
+#    - name: contributed
+#      color: blue-6
+#    - name: talks
+#      color: red-6
+#    - name: "posters"
+#      color: blue-6
 
 days:
   - name: Day 1
@@ -17,15 +17,15 @@ days:
         title: Welcome from the organisers
       - time: 13:00 to 14:30
         title: Session 1 talks
-        category: talks
+        category: red-6
       - time: 14:30 to 15:00
         title: Coffee
       - time: 15:00 to 16:30
         title: Session 2 talks
-        category: talks
+        category: red-6
       - time: 16:30 to 18:30
         title: Posters session 1
-        category: "posters"
+        category: blue-6
 
   - name: Day 2
     events:
@@ -33,20 +33,19 @@ days:
         title: Coffee
       - time: 9:30 to 11:00
         title: Session 3 talks
-        category: talks
+        category: red-6
       - time: 11:00 to 11:30
         title: Coffee
       - time: 11:30 to 13:00
         title: Session 4 talks
-        category: talks
+        category: red-6
       - time: 13:00 to 14:00
         title: Lunch
       - time: 13:30 to 15:30
         title: Poster session 2
-        category: talks
-        category: posters
+        category: blue-6
       - time: 15:30 to 17:15
-        title: Session 5 talks and keynote
-        category: talks
+        title: Session 5 talks
+        category: red-6
       - time: 17:15 to 17:30
         title: Closing remarks

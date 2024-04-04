@@ -57,8 +57,7 @@ layout: default
                         <ul class="list-unstyled lh-sm">
                             {% for event in day.events %}
                             {% if event.category %}
-                            {% assign category = categories | find: 'name', event.category %}
-                            {% assign color = category.color %}
+                            {% assign color = event.category %}
                             {% else %}
                             {% assign color = 'gray-4' %}
                             {% endif %}
