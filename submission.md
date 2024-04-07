@@ -21,9 +21,8 @@ All abstracts will be considered by the programme committee. Reviewers will be b
 Four abstracts will be selected for a talk in the main programme. Please indicate in your submission if you would like your abstract to be considered for a talk.
 
 ## Schedule
-- Opens: March 2024
-- Closes: 30 April 2024
-- Decision: 13 May 2024
+- Closes: 17 May 2024
+- Decision: 3 June 2024
 
 ## Poster format
 Maximum poster size is A0 portrait. 
