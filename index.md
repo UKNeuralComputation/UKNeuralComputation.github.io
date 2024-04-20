@@ -36,6 +36,7 @@ UKNC24 is taking place **8-10 July 2024** at the **University of Sheffield**: a 
 Hannes Saal (University of Sheffield), Stuart Wilson (University of Sheffield), Alekhya Mandali (University of Sheffield), Hazem Toutounji (University of Sheffield), Mark Humphries (University of Nottingham)
 
 ## Sponsors
+- [Guarantors of Brain](https://guarantorsofbrain.org/)
 - [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), University of Sheffield
 
 ## Prior meetings
