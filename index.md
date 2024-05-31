@@ -7,7 +7,7 @@ navorder: 0
 
 UKNC24 is taking place **8-10 July 2024** at the **University of Sheffield**: a national meeting for the UK community working on the computational side of neuroscience. Be it modelling, maths, data science, theory, machine-learning, and all combinations thereof. From the single synapse and single neuron, through ensembles, networks, and circuits, up to the large-scale functional networks in the human brain.
 
-# [Registration]({% link registration.md %}) and [Submission]({% link submission.md %}) now open!
+# [Registration]({% link registration.md %}) open until 21 June 2024!
 
 ## Key information
 
