@@ -11,7 +11,7 @@ UKNC24 is taking place **8-10 July 2024** at the **University of Sheffield**: a 
 
 ## Key information
 
-- ECR workshops: Monday, 8 July 2024
+- ECR workshops: Monday afternoon, 8 July 2024, and Tuesday morning, 9 July 2024
 - Main meeting: Tuesday, 9 July 2024 and Wednesday, 10 July 2024
 - Venue: The Diamond, University of Sheffield, 32 Leavygreave Rd, Sheffield S3 7RD (see [Location]({% link locations.md %}))
 - Questions and enquiries: <uknc24@sheffield.ac.uk>
