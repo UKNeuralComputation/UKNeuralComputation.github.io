@@ -20,15 +20,3 @@ Registration closes 21 June 2024.
 £150. Attendance at main conference and the preceding ECR day (Monday, 8 July to Wednesday, 10 July). The ECR day is open to postgraduates, postdocs, and early-career fellows, and attendance is capped at 45. Once places are filled, email <uknc24@sheffield.ac.uk> to be added to the waitlist.
 
 [Book here](https://onlineshop.shef.ac.uk/browse/product-selection?product-token=20c5904308bcad813bbb77afe2a8b920)
-
-## Main conference only + 1 night accommodation at Jonas
-
-£200. Attendance at main conference only (Tuesday, 9 July, and Wednesday, 10 July), plus one night accommodation at [Jonas](https://www.jonashotel.co.uk/) (see [Location]({% link locations.md %}) page for details).
-
-[Book here](https://onlineshop.shef.ac.uk/browse/product-selection?product-token=76fa99181f5ddd58f43ee8ac3ef690b9)
-
-## Main conference + ECR day + 2 nights accommodation at Jonas
-
-£250. Attendance at main conference and the preceding ECR day (Monday, 8 July to Wednesday, 10 July), plus two nights accommodation at [Jonas](https://www.jonashotel.co.uk/) (see [Location]({% link locations.md %}) page for details) from Monday to Wednesday. The ECR day is open to postgraduates, postdocs, and early-career fellows, and attendance is capped at 45. Once places are filled, email <uknc24@sheffield.ac.uk> to be added to the waitlist.
-
-[Book here](https://onlineshop.shef.ac.uk/browse/product-selection?product-token=3fa6a847f48b431c0390849d1087ac91)
