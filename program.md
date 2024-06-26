@@ -11,4 +11,4 @@ The workshops will take place on Monday, 8 July, starting around mid day, and al
 
 ## Main conference
 
-Full programme to be confirmed. See draft programme for a rough schedule below.
+See the full programme below. Poster sessions to be confirmed imminently.
