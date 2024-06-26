@@ -7,8 +7,6 @@ navorder: 0
 
 UKNC24 is taking place **8-10 July 2024** at the **University of Sheffield**: a national meeting for the UK community working on the computational side of neuroscience. Be it modelling, maths, data science, theory, machine-learning, and all combinations thereof. From the single synapse and single neuron, through ensembles, networks, and circuits, up to the large-scale functional networks in the human brain.
 
-# [Registration]({% link registration.md %}) open until 21 June 2024!
-
 ## Key information
 
 - ECR workshops: Monday afternoon, 8 July 2024, and Tuesday morning, 9 July 2024
@@ -36,6 +34,8 @@ UKNC24 is taking place **8-10 July 2024** at the **University of Sheffield**: a 
 Hannes Saal (University of Sheffield), Stuart Wilson (University of Sheffield), Alekhya Mandali (University of Sheffield), Hazem Toutounji (University of Sheffield), Mark Humphries (University of Nottingham)
 
 ## Sponsors
+- [BOW](https://usebow.com/)
+- [Opteran](https://opteran.com/)
 - [Guarantors of Brain](https://guarantorsofbrain.org/)
 - [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), University of Sheffield
 
