@@ -1,12 +1,3 @@
-#legend:
-#  title: Legend
-#  categories:
-#    - name: contributed
-#      color: blue-6
-#    - name: talks
-#      color: red-6
-#    - name: "posters"
-#      color: blue-6
 
 days:
   - name: Day 1, 9 July
@@ -42,7 +33,7 @@ days:
         subtitle: "Fundamental Elements in Decision-Making: Insights from a Reinforcement Learning Model"
         category: red-6
       - time: 16:30 to 18:30
-        title: Posters session 1 & Reception
+        title: Posters session A & Reception
         category: blue-6
 
   - name: Day 2, 10 July
@@ -74,9 +65,9 @@ days:
         subtitle: Fungal neuroscience
         category: red-6
       - time: 13:00 to 14:00
-        title: Lunch
+        title: Lunch (overlaps with start of poster session)
       - time: 13:30 to 15:30
-        title: Poster session 2
+        title: Poster session B
         category: blue-6
       - time: 15:30 to 16:00
         title: Geoff Goodhill (Washington University)
