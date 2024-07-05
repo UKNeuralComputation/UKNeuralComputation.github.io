@@ -11,4 +11,4 @@ The workshops will take place on Monday, 8 July, starting around mid day, and al
 
 ## Main conference
 
-See the summary programme below. See the full programme PDF for abstracts and poster session details.
+See the summary programme below. See the [full programme PDF]({% link UKNC2024_Programme.pdf %}) for abstracts and poster session details.
