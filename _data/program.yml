@@ -47,8 +47,6 @@ days:
 
   - name: Day 2, 10 July
     events:
-      - time: 9:00 to 9:30
-        title: Coffee
       - time: 9:30 to 10:00
         title: Rui Ponte Costa (University of Oxford)
         subtitle: "Back to the present: self-supervised learning in cortical layers"
