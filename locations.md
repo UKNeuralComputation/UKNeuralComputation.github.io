@@ -7,9 +7,11 @@ navorder: 4
 
 ## Conference venue
 
-The conference will take place in The Diamond, 32 Leavygreave St, Sheffield S3 7RD, a short walk from Sheffield City Centre. We will be on the lower level, where we have access to lecture theatres and space for the poster sessions.
+The conference will take place in **The Diamond, 32 Leavygreave St, Sheffield S3 7RD**, a short walk from Sheffield City Centre. We will be on the lower level, where we have access to lecture theatres and space for the poster sessions.
 
 See map below for details.
+
+Note that the ECR workshop Monday session will take place in a different venue closeby. We will be in the Pam Liversidge Building in rooms F12/F13. Enter the building at the corner of Broad Lane and Newcastle St. See the information that has been emailed to ECR attendees for further information.
 
 ## Getting to Sheffield and the venue
 
