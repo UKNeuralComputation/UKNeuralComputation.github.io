@@ -2,7 +2,7 @@
 layout: locations
 title: Location
 description: Map of conference locations
-navorder: 4
+navorder: 
 ---
 
 ## Conference venue
