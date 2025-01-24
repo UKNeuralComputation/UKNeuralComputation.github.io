@@ -2,10 +2,8 @@
 layout: page
 title: Submission
 description: Abstract submission
-navorder: 3
+navorder: 
 ---
-
-# -> Abstract submission is now closed <-
 
 ## Format
 Each submission will need the following information to be entered into a Google Form:
@@ -21,8 +19,8 @@ All abstracts will be considered by the programme committee. Reviewers will be b
 Four abstracts will be selected for a talk in the main programme. Please indicate in your submission if you would like your abstract to be considered for a talk.
 
 ## Schedule
-- Closes: 17 May 2024
-- Decision: 7 June 2024
+- Closes: 
+- Decision: 
 
 ## Poster format
 Maximum poster size is A0 portrait. 
