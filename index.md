@@ -5,7 +5,7 @@ description: UK Neural Computation 2025
 navorder: 0
 ---
 
-UKNC25 is taking place **9-11 July 2025** at **Imperial College London**: a national meeting for the UK community working on the computations of the brain Be it experiments, modelling, maths, nachine-learning, and all combinations thereof. From the single synapse and single neuron, through ensembles, networks, and circuits, up to the large-scale functional networks in the human brain.
+UKNC25 is taking place **9-11 July 2025** at **Imperial College London**: a national meeting for the UK community working on the computations of the brain, be it experiment, modelling, maths, machine-learning, and all combinations thereof. From the single synapse and single neuron, through ensembles, networks, and circuits, up to the large-scale functional networks in the human brain.
 
 ## Key information
 
