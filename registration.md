@@ -2,7 +2,7 @@
 layout: page
 title: Registration
 description: Conference registration
-navorder: 2
+navorder: 
 ---
 
 Registration is now closed.
