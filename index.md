@@ -13,8 +13,8 @@ UKNC25 is taking place **9-11 July 2025** at the **Imperial College London**: a 
 - Main meeting: Thursday, 10 July 2025 and Friday, 11 July 2025
 
 [//]: # (Venue: The Diamond, University of Sheffield, 32 Leavygreave Rd, Sheffield S3 7RD (see [Location]({% link locations.md %}))
-- Questions and enquiries: <uknc24@sheffield.ac.uk>
-- 11 invited talks, 4 contributed talks, and up to 60 posters)
+[//]: # (- Questions and enquiries: <uknc24@sheffield.ac.uk>)
+[//]: # (- 11 invited talks, 4 contributed talks, and up to 60 posters)
 
 ## Confirmed speakers
 
