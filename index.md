@@ -21,7 +21,7 @@ UKNC25 is taking place **9-11 July 2025** at **Imperial College London**: a nati
 - **Jennifer Bizley** (UCL)
 - **Rafal Bogacz** (Oxford)
 - **Claudia Clopath** (Imperial College London)
-- **Jonathon Cornford** (University of Leeds)
+- **Jonathan Cornford** (University of Leeds)
 - **Paul Graham** (University of Sussex)
 - **Flavia Mancini** (University of Cambridge)
 - **Simon Schultz** (Imperial College London)
