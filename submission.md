@@ -2,7 +2,7 @@
 layout: page
 title: Submission
 description: Abstract submission
-navorder: 
+navorder: 1
 ---
 
 ## Format
@@ -11,16 +11,19 @@ Each submission will need the following information to be entered into a Google 
 - Author list
 - Some information on the presenting author
 - Summary of work (maximum 2,000 characters; text only).
-- Whether the submission should be considered for a talk? (Y/N)
+
+We will also ask if the presenting author would be interested in applying for a travel fellowship to attend the UKNC meeting.
 
 ## Selection process
 All abstracts will be considered by the programme committee. Reviewers will be blinded to author names.
 
-Four abstracts will be selected for a talk in the main programme. Please indicate in your submission if you would like your abstract to be considered for a talk.
+All abstracts that fit the meeting remit will be selected for posters. Talks will be offered to selected abstracts.
 
 ## Schedule
-- Closes: 
-- Decision: 
+- Closes: May 12th 2025 (midnight UK time)
+- Decision: end of May
 
 ## Poster format
 Maximum poster size is A0 portrait. 
+
+[Submit here](https://docs.google.com/forms/d/e/1FAIpQLSevEcFzHjJ5PDR87r3AQKFBqdDl17i-VeHbD5GkkgTChL4bVw/viewform?usp=sharing)
