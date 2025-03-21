@@ -38,6 +38,9 @@ We thank our sponsors for their generous support of the meeting
 - [ARIA - Scalable Neural Interfaces](https://www.aria.org.uk/opportunity-spaces/scalable-neural-interfaces): sponsoring the meeting and travel fellowships
 - [Francis Crick Institute](https://www.crick.ac.uk/): sponsoring the networking sessions
 
+![ARIA logo](/assets/images/Aria_logo.png)
+![Francis Crick institute logo](/assets/images/The_Francis_Crick_Institute_logo.png)
+
 ## Prior meetings
 
 - [**UK Neural Computation 2019**](https://drmdhumphries.wixsite.com/ukneuralcomp2019) took place at the University of Nottingham on 1-3 July 2019.
