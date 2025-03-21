@@ -32,8 +32,9 @@ UKNC25 is taking place **9-11 July 2025** at **Imperial College London**: a nati
 Danyal Akarca (Imperial College), Dan Goodman (Imperial College), Mark Humphries (University of Nottingham)
 
 ## Sponsors
-- [ARIA - Scalable Neural Interfaces](https://www.aria.org.uk/opportunity-spaces/scalable-neural-interfaces)
-
+We thank our sponsors for their generous support of the meeting
+- [ARIA - Scalable Neural Interfaces](https://www.aria.org.uk/opportunity-spaces/scalable-neural-interfaces): sponsoring the meeting and travel fellowships
+- [Francis Crick Institute](https://www.crick.ac.uk/): sponsoring the networking sessions
 
 ## Prior meetings
 
