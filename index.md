@@ -28,6 +28,8 @@ UKNC25 is taking place **9-11 July 2025** at **Imperial College London**: a nati
 - **Petra Vertes** (University of Cambridge)
 - **Petr Znamenskiy** (Francis Crick Institute)
 
+We will also host a sandpit event for ARIA's [Scalable Neural Interfaces](https://www.aria.org.uk/opportunity-spaces/scalable-neural-interfaces) program, for the UKNC community to develop new collaborations and grant ideas for future ARIA funding opportunities.  
+
 ## Organisers
 Danyal Akarca (Imperial College), Dan Goodman (Imperial College), Mark Humphries (University of Nottingham)
 
