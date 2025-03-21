@@ -2,9 +2,9 @@ center: 53.3815523,-1.4820845
 zoom: 19
 
 markers:
-  - title: The Diamond, University of Sheffield
-    text: Main conference building
-    latlng: 53.38168705578664, -1.4821269759214757
+#  - title: The Diamond, University of Sheffield
+#    text: Main conference building
+#    latlng: 53.38168705578664, -1.4821269759214757
 #  - title: ICOSS, University of Sheffield
 #    latlng: 53.38106469485642, -1.4817407378124599
 
