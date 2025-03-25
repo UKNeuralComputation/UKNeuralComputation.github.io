@@ -5,6 +5,11 @@ markers:
 - title: Imperial College London, South Kensington Campus
 - text: Conference location
 - latlng: 51.498877351808034, -0.17945283808578516
+
+- title: Huxley Building
+- text: Main meeting venue
+- latlng: 51.499149688659934, -0.17898924606838815
+
 #  - title: ICOSS, University of Sheffield
 #    latlng: 53.38106469485642, -1.4817407378124599
 
