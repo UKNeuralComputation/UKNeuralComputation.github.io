@@ -14,6 +14,6 @@ Registration options:
 The ECR day will run from early afternoon on 9th July to late morning on July 10th, allowing for morning travel on the 9th.
 - **Main meeting 10th-11th July**. £150, including lunches, all coffee breaks, and drinks reception on the evening of July 10th. The meeting will start at lunchtime on July 10th, allowing for morning travel on the 10th.
 
-We will be offering a limited number of travel fellowships, sponsored by [ARIA's Scalable Neural Interface](https://www.aria.org.uk/opportunity-spaces/scalable-neural-interfaces) program; please check back for details.
+We will be offering a limited number of conference fellowships, sponsored by [ARIA's Scalable Neural Interface](https://www.aria.org.uk/opportunity-spaces/scalable-neural-interfaces) program; please check back for details.
 
 Registrations can be cancelled and refunded up to July 1st. They cannot be refunded on or after that date.
