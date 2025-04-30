@@ -14,6 +14,17 @@ Registration options:
 The ECR day will run from early afternoon on 9th July to late morning on July 10th, allowing for morning travel on the 9th.
 - **Main meeting 10th-11th July**. £150, including lunches, all coffee breaks, and drinks reception on the evening of July 10th. The meeting will start at lunchtime on July 10th, allowing for morning travel on the 10th.
 
-We will be offering a limited number of conference fellowships, sponsored by [ARIA's Scalable Neural Interface](https://www.aria.org.uk/opportunity-spaces/scalable-neural-interfaces) program; please check back for details.
-
 Registrations can be cancelled and refunded up to July 1st. They cannot be refunded on or after that date.
+
+### Conference Fellowships ###
+We are offering up to 8 conference fellowships to support attendance at UKNC2025, sponsored by [ARIA's Scalable Neural Interface](https://www.aria.org.uk/opportunity-spaces/scalable-neural-interfaces) program. 
+
+Each fellowship will include a registration fee waiver (worth £150) and attendance expenses up to £225. Note expenses will need to be claimed back after the meeting, and will be capped according to Imperial's rates: full details will be given to the awardees.
+
+To apply, please fill in the simple form below, attaching a letter from your supervisor/manager. Awards will be chosen by lottery from the eligible applications.  
+
+Deadline for applications: midnight UK time, May 23rd 2025.
+
+[APPLY HERE](https://forms.gle/88Um7EMgtaP6aUit5)
+
+
