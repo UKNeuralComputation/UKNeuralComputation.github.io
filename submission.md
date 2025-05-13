@@ -26,4 +26,5 @@ All abstracts that fit the meeting remit will be selected for posters. Talks wil
 ## Poster format
 Maximum poster size is A0 portrait. 
 
-[Submit here](https://docs.google.com/forms/d/e/1FAIpQLSevEcFzHjJ5PDR87r3AQKFBqdDl17i-VeHbD5GkkgTChL4bVw/viewform?usp=sharing)
+# SUBMISSION IS NOW CLOSED
+[//]:[Submit here](https://docs.google.com/forms/d/e/1FAIpQLSevEcFzHjJ5PDR87r3AQKFBqdDl17i-VeHbD5GkkgTChL4bVw/viewform?usp=sharing)
