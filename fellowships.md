@@ -13,4 +13,6 @@ To apply, please fill in the simple form below, attaching a letter from your sup
 
 Deadline for applications: midnight UK time, May 23rd 2025.
 
-[APPLY HERE](https://forms.gle/88Um7EMgtaP6aUit5)
+# Submission is now closed
+
+[//]: [APPLY HERE](https://forms.gle/88Um7EMgtaP6aUit5)
