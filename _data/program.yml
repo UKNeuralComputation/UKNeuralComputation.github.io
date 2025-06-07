@@ -40,6 +40,7 @@ days:
         title: Posters session 1 & Networking Reception
         subtitle: sponsored by The Francis Crick Institute
         category: blue-6
+        
   - name: Day 2, 11 July
     events:
       - time: 9:30 to 10:00
@@ -59,7 +60,7 @@ days:
       - time: 11:30 to 13:00
         title: ARIA Breakout Session 
         subtitle: Research funding opportunities and priorities
-        category: Orange
+        category: orange-6
       - time: 13:00 to 14:00
         title: Lunch (overlaps with start of poster session)
       - time: 13:30 to 15:00
