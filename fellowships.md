@@ -2,7 +2,7 @@
 layout: page
 title: Conference Fellowship
 description: Conference Fellowship
-navorder: 4
+navorder: 
 ---
 
 We are offering up to 8 conference fellowships to support attendance at UKNC2025, sponsored by [ARIA's Scalable Neural Interface](https://www.aria.org.uk/opportunity-spaces/scalable-neural-interfaces) program. 
