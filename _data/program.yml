@@ -38,53 +38,52 @@ days:
         category: red-6
       - time: 16:30 to 18:30
         title: Posters session 1 & Networking Reception
-        subtitle: sponsored by the Francis Crick Institute
+        subtitle: sponsored by The Francis Crick Institute
         category: blue-6
 
-  - name: Day 2, 10 July
+  - name: Day 2, 11 July
     events:
       - time: 9:30 to 10:00
-        title: Rui Ponte Costa (University of Oxford)
-        subtitle: "Back to the present: self-supervised learning in cortical layers"
+        title: Simon Schultz (Imperial College)
+        subtitle: Neural manifold inference by maximising information
         category: red-6
       - time: 10:00 to 10:30
-        title: Emma Scholey (University of Birmingham)
-        subtitle: The explore/exploit trade-off drives variation in patch foraging decisions
-        category: teal-6
+        title: Jack Cook (University of Oxford)
+        subtitle: Brain-Like Pathways Form in Models With Heterogeneous Experts
+        category: violet-6
       - time: 10:30 to 11:00
-        title: "Tim O'Leary (University of Cambridge)"
-        subtitle: Data-driven neural dynamics
+        title: Claudia Clopath (Imperial College)
+        subtitle: Estimating the uncertainty of feedforward and feedback inputs with prediction-error circuits
         category: red-6
       - time: 11:00 to 11:30
         title: Coffee
-      - time: 11:30 to 12:00
-        title: Yulia Timofeeva (University of Warwick)
-        subtitle: Computational modelling of neurotransmitter release
-        category: red-6
-      - time: 12:00 to 12:30
-        title: Isabel Cornacchia (University of Edinburgh)
-        subtitle: An efficient coding theory for cortical connectivity
-        category: teal-6
-      - time: 12:30 to 13:00
-        title: Andrew Lin (University of Sheffield)
-        subtitle: Sparse coding through homeostatic plasticity in the Drosophila mushroom body
-        category: red-6
+      - time: 11:30 to 13:00
+        title: ARIA Breakout Session 
+        subtitle: Research funding opportunities and priorities
+        category: Orange
       - time: 13:00 to 14:00
         title: Lunch (overlaps with start of poster session)
-      - time: 13:30 to 15:30
-        title: Poster session B
+      - time: 13:30 to 15:00
+        title: Poster session 2
         category: blue-6
+      - time: 15:00 to 15:30
+        title: Petra Vertes (University of Cambridge)
+        subtitle: Reservoir Computing as a Window into Structure-Function Relationships in Neural Systems
+        category: red-6
       - time: 15:30 to 16:00
-        title: Geoff Goodhill (Washington University)
-        subtitle: Decoding the development of behavior and neural circuits in zebrafish
+        title: Sebastian Castedo (Laboratoire de Physique de l'ENS)
+        subtitle: Energy-Efficient Neural Coding Under Food Restriction: Structure, Noise, and Resilience
+        category: violet-6
+      - time 16:00 to 16:30
+        title: Paul Graham (University of Sussex)
+        subtitle: Spatial computations in shallow, insect-inspired networks
         category: red-6
-      - time: 16:00 to 16:30
-        title: Mark van Rossum (University of Nottingham)
-        subtitle: Energy efficient learning in neural networks
-        category: red-6
-      - time: 16:30 to 17:15
-        title: Randy Bruno (University of Oxford)
-        subtitle: Cortical layers in context & learning
+      - time: 16:30 to 17:00
+        title: Coffee
+      - time: 17:00 to 17:45
+        title: Rafal Bogacz (University of Oxford)
+        subtitle: Predictive coding: effective learning with local plasticity
         category: orange-6
-      - time: 17:15 to 17:30
-        title: Closing remarks
+      - time: 17:45
+        title: UKNC organisers
+        subtitle: Closing
