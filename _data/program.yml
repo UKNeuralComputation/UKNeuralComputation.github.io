@@ -1,39 +1,44 @@
 
 days:
-  - name: Day 1, 9 July
+  - name: Day 1, 10 July
     events:
-      - time: 11:45 to 12:50
+      - time: 11:30 to 12:30
         title: Registration and lunch
-      - time: 12:50 to 13:00
+      - time: 12:30 to 12:45
         title: Welcome from the organisers
+      - time: 12:45 to 13:00
+        title: Jacques Carolan (ARIA)
+        subtitle: Precision Neurotechnologies for Human Therapeutics
+        category: orange-6
       - time: 13:00 to 13:30
-        title: Rasmus Petersen (University of Manchester)
-        subtitle: The function of sensory cortex during natural behaviour
+        title: Jonathan Cornford (University of Leeds)
+        subtitle: Normative brain-like learning algorithms
         category: red-6
       - time: 13:30 to 14:00
-        title: Huiling Tan (MRC BNDU, Oxford)
-        subtitle: Adaptive DBS for Movement Disorders - from basic neuroscience to translation
-        category: red-6
+        title: Ian Hawes (University of Edinburgh)
+        subtitle: Context-specific speed integration enables memory generalisation
+        category: violet-6
       - time: 14:00 to 14:30
-        title: Valentin Schmutz (UCL)
-        subtitle: "High-dimensional population activity from low-dimensional population dynamics: an exactly solvable model"
-        category: teal-6
+        title: Jennifer Bizley (UCL)
+        subtitle: How does the brain construct auditory space?
+        category: red-6
       - time: 14:30 to 15:00
         title: Coffee
       - time: 15:00 to 15:30
-        title: Dan Goodman (Imperial College London)
-        subtitle: From neural mechanism to function
+        title: Flavia Mancini (University of Cambridge)
+        subtitle: TBD
         category: red-6
       - time: 15:30 to 16:00
-        title: Samuel Eckmann (University of Cambridge)
-        subtitle: A neural circuit model for inhibition-stabilized memory encoding and retrieval
-        category: teal-6
-      - time: 15:30 to 16:00
-        title: Eleni Vasilaki (University of Sheffield)
-        subtitle: "Fundamental Elements in Decision-Making: Insights from a Reinforcement Learning Model"
+        title: Andrea Colins Rodriguez (Universidad Adolfo Ibañez / University of Nottingham)
+        subtitle: Rhythmic and discrete arm movements arise from the same control strategy in Primary Motor Cortex but not in the Supplementary Motor Area 
+        category: violet-6
+      - time: 16:30 to 16:30
+        title: Petr Znamenskiy (Francis Crick Institute)
+        subtitle: A depth map of visual space in the primary visual cortex
         category: red-6
       - time: 16:30 to 18:30
-        title: Posters session A & Reception
+        title: Posters session 1 & Networking Reception
+        subtitle: sponsored by the Francis Crick Institute
         category: blue-6
 
   - name: Day 2, 10 July
