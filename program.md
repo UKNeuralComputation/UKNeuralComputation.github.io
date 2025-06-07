@@ -7,7 +7,7 @@ navorder: 1
 
 ## ECR workshops
 
-The workshops will take place on the afternoon of Wednesday, 8 July, and the morning of Thursday, 9 July. They will include networking, sessions on career development, and other activities relevant to ECRs. Targeted at PhD students and postdocs. A schedule will be sent to all ECR workshop attendees.
+The workshops will take place on the afternoon of Wednesday, 9 July, and the morning of Thursday, 10 July. They will include networking, sessions on career development, and other activities relevant to ECRs. Targeted at PhD students and postdocs. A schedule will be sent to all ECR workshop attendees.
 
 ## Main conference
 
