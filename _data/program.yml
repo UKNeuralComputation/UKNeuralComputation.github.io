@@ -83,7 +83,7 @@ days:
       - time: 17:00 to 17:45
         title: Rafal Bogacz (University of Oxford)
         subtitle: "Predictive coding: effective learning with local plasticity"
-        category: red-6
-      - time: 17:45
+        category: yellow-6
+      - time: 17:45 t0 18:00
         title: UKNC organisers
         subtitle: Closing
