@@ -2,7 +2,7 @@
 layout: locations
 title: Location & Accommodation
 description: locations and accommodation
-navorder: 2
+navorder: 3
 ---
 
 ## Conference venue
