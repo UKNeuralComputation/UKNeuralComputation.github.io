@@ -2,7 +2,7 @@
 layout: page
 title: Registration
 description: Conference registration
-navorder: 3
+navorder: 2
 ---
 
 Registration is now open for UKNC2025. It will close on July 1st. 
