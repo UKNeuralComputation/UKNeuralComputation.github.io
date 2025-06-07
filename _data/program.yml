@@ -72,7 +72,7 @@ days:
         category: red-6
       - time: 15:30 to 16:00
         title: Sebastian Castedo (Laboratoire de Physique de l'ENS)
-        subtitle: Energy-Efficient Neural Coding Under Food Restriction - Structure, Noise, and Resilience
+        subtitle: "Energy-Efficient Neural Coding Under Food Restriction: Structure, Noise, and Resilience"
         category: violet-6
       - time: 16:00 to 16:30
         title: Paul Graham (University of Sussex)
@@ -82,7 +82,7 @@ days:
         title: Coffee
       - time: 17:00 to 17:45
         title: Rafal Bogacz (University of Oxford)
-        subtitle: Predictive coding: effective learning with local plasticity
+        subtitle: "Predictive coding: effective learning with local plasticity"
         category: red-6
       - time: 17:45
         title: UKNC organisers
