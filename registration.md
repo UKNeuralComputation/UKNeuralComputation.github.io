@@ -17,7 +17,7 @@ The ECR day will run from early afternoon on 9th July to late morning on July 10
 Registrations can be cancelled and refunded up to July 1st. They cannot be refunded on or after that date.
 
 
-We are offering up to 8 [conference fellowships](https://neuralcomputation.uk/fellowships.html) to support attendance at UKNC2025, sponsored by [ARIA's Scalable Neural Interface](https://www.aria.org.uk/opportunity-spaces/scalable-neural-interfaces) program. 
+[//]: We are offering up to 8 [conference fellowships](https://neuralcomputation.uk/fellowships.html) to support attendance at UKNC2025, sponsored by [ARIA's Scalable Neural Interface](https://www.aria.org.uk/opportunity-spaces/scalable-neural-interfaces) program. 
 
 
 
