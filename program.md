@@ -5,9 +5,11 @@ description: Schedule of talks and activities
 navorder: 1
 ---
 
-## ECR workshops
+## Early Career Researcher (ECR) workshop
 
-The workshops will take place on the afternoon of Wednesday, 9 July, and the morning of Thursday, 10 July. They will include networking, sessions on career development, and other activities relevant to ECRs. Targeted at PhD students and postdocs. A schedule will be sent to all ECR workshop attendees.
+The ECR workshop will take place on the afternoon of Wednesday, 9 July, and the morning of Thursday, 10 July. It will include networking, talks, and sessions on career development, grants, starting a lab, and more. Targeted at PhD students and postdocs.
+
+Download the [ECR workshop programme](/assets/docs/UKNC2025_ECR_schedule.pdf)
 
 ## Main conference
 
